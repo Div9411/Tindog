@@ -1,2 +1,3 @@
 # Tindog
-Tinder for dogs . A fully responsive website.
+Tinder for dogs . A fully responsive website template.
+CHECK HERE : 
